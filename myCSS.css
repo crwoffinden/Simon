@@ -75,3 +75,10 @@ footer a {
     border: thick solid rgb(36, 53, 0)
 }
 
+.button-top-right {
+    border-radius: 0 100% 0 0;
+    margin: 20px 20px 0 0;
+    background-color: red;
+    border: thick solid rgb(83, 12, 12);
+}
+

@@ -68,3 +68,10 @@ footer a {
     gap: 20px;
 }
 
+.button-top-left {
+    border-radius: 100% 0 0 0;
+    margin: 20px 0 0 20px;
+    background-color: green;
+    border: thick solid rgb(36, 53, 0)
+}
+

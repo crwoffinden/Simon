@@ -57,6 +57,7 @@ menu .nav-item {
     border-color: rgba(70, 131, 180, 0.616);
     border-top: 0;
     margin-top: 0;
+    font-size: 20px;
 }
 
 footer a {

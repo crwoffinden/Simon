@@ -29,7 +29,7 @@ footer {
 }
 
 .navbar {
-    flex: 1;
+    flex: 0;
     display: flex;
     flex-direction: column; /*this makes it go horizontal*/
     position: absolute;

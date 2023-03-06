@@ -82,4 +82,12 @@ class Game {
     getPlayerName() {
         return localStorage.getItem('userName') ?? 'Mystery player';
     }
+
+    async playSequence() {
+        await delay(500);
+        for (const btn of this.sequence) {
+            await btn.press(1.0);
+            await delay(100);
+        }
+    }
 }

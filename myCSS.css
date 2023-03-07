@@ -147,7 +147,7 @@ footer a {
     color: white;
 }
 
-.score {
+#score {
     position: absolute;
     text-align: center;
     font-size: 20px;
